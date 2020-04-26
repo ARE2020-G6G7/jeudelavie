@@ -1,6 +1,9 @@
 # JEU DE LA VIE
 
-Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
+Le Jeu de la Vie, ou Game of Life, est un programme informatique dit Automate Cellulaire, inventé par John CONWAY en 1970, ce jeu est au centre de l'intérêt des physiciens, mathématiciens et des biologistes aux vues du modèle simpliste qu'il représente, et qui peut permettre de comprendre le processus d'interaction plus ou moins complexe de plusieurs cellules donnant forme à des êtres vivants tels que nous sommes.
+
+Ce travail s'axant sur une simulation de dimension 2 et a un espace d'évolution défini, l'hypothèse de ce travail de recherche est que oui, il est possible d'avoir un ou plusieurs modèles récurrents pour des placements de cellules différents.
+Pour répondre à la problématique, nous allons écrire un programme en Python se basant sur le modèle de la simulation et des 4 règles.
 
 ## English version
 
@@ -15,7 +18,7 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 ## Description synthétique du projet
 
-**Problématique :** 
+**Problématique :** Est-il possible d'avoir un pattern selon des configurations de placement différentes ?
 
 **Hypothèse principale :**
 
