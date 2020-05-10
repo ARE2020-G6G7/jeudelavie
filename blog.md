@@ -16,4 +16,5 @@ Nous débutons ainsi la distributions de taches au sein du groupe.
 -Mise en ligne du code python 
 -Derniere lignes droite mise en page du site 
 -Finition du carnet de nord
+
 < A  href = "index.html" > Retour à la page principale </ a>
