@@ -70,7 +70,7 @@ Voici le résultat de cette simulation. On peut observer que plusieurs paternes 
 
 **Analyse**
 
-Tout d'abord la simulation peut être effectue a partir d'une cellule ou plus. Car en configuration manuelle si l'on lance une simulation sans avoir placé de cellule, on obtient les résultats précédents. On peut ainsi observer de nos deux débuts de simulations que les emplacements de cellules au départ sont totalement différents. Mais à la fin de la simulation on a quand même une apparition de d'un ou plusieurs patterns simples. Ainsi on peut conclure que notre hypothèse est bien valide, que l'apparition de pattern est inéluctable.
+Tout d'abord la simulation peut être effectuée à partir d'une cellule ou plus. Car en configuration manuelle si l'on lance une simulation sans avoir placé de cellule, on obtient les résultats précédents. On peut ainsi observer de nos deux débuts de simulations que les emplacements de cellules au départ sont totalement différents. Mais à la fin de la simulation on a quand même une apparition de d'un ou plusieurs patterns simples. Ainsi on peut conclure que notre hypothèse est bien valide, que l'apparition de pattern est inéluctable.
 
 ## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
 
