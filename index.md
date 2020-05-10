@@ -57,11 +57,11 @@ Voici le résultat de cette simulation. On peut observer que plusieurs paternes 
  **Phase 2 :**
 Debut de simulation, avec donc des cellules générer aléatoirement:
 
-![image] (Phase2Deb.png)
+![image](Phase2Deb.png)
 
 Voici le résultat de cette simulation. On peut observer que plusieurs paternes ont apparus:
 
-![image] (Phase2Fin.png)
+![image](Phase2Fin.png)
 
 **Analyse**
 
@@ -73,7 +73,7 @@ Tout d'abord la simulation peut être effectue a partir d'une cellule ou plus. C
 **Carte mentale**
 Voici notre Carte mental 
 
-![image] (ARE.png)
+![image](ARE.png)
 
 ## Bibliographie :
 1-« Le Jeu de la Vie – Science étonnante #49 » par Science Etonnate le 8 décembre 2017
