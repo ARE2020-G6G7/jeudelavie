@@ -2,19 +2,52 @@
 
 => Description hebdomadaire du travail effectué (variez les auteurs    ! )          
 ### Semaine 1
-Tout d'abord afin de répondre a votre retour:
--Par faute de notre part dans la remise du précédent récapitulatif; il est mentionné que nous allons travailler sur un "tableau de dimension 1". Nous travaillons plutôt sur un tableau de dimension 2 effectivement.
 
-Nous débutons ainsi la distributions de taches au sein du groupe.
+Durant cette semaine nous avons pu distribuer les tâches de la recherche au sein du groupe. Nous avons pu mettre en évidence certains points sur lesquels nous aurions pu avoir certaines difficultés, c'est ainsi que nous avons pu attribuer les délais pour les tâches. Nous avons aussi profité de cette semaine pour créer les bases du support de la recherche.
+
+# Par E. Kounoud
+
+Durant cette semaine j'ai pu me replonger dans mes cours de Python du premier semestre, faisant une liste des éléments que j'aurais potentiellement besoin lors de la programmation du programme. J'ai d'emblée su que j'aurais besoin d'une interface simple, comportant un tableau de n * n cases. Le besoin de boutons pour lancer la simulation, l'arrêter et fermer la fenêtre.
+Trouver une manière d'éditer le tableau pour pouvoir ajouter ou retirer des cellules dans le tableau.
+
+# Par Y. Soukehal
 
 ### Semaine 2
--Avancement du code python 
--Mise en place du carnet de bord 
--Commencement de la mise en place du site 
+
+J'ai commencé la base du programme, créé une fenêtre, ainsi que le tableau composé d'un tableau composé de lignes verticales et horizontales créant les cellules dans lesquelles on pourra éditer la disposition des cellules.
+La base faite, j'ai pu me pencher sur la question des boutons intégrés à l'interface graphique. Pour cela j'ai du m'appuyer sur quelques forum de programmation Python.
+L'addition d'un bouton pour fermer la fenètre est donc maintenant faite (ce qui rend le visuel et l'utilisation plus intuitif.).
+
+# Par Y. Soukehal
 
 ### Semaine 3
--Mise en ligne du code python 
--Derniere lignes droite mise en page du site 
--Finition du carnet de nord
+
+Cette semaine sera consacrée à la réalisation plus complexe du code. Avant tout, il fallait que je puisse transcrire les règles du jeu de la vie en Python, pour cela, j'ai passé une bonne heure et demie à imaginer chaque situation et à écrire le code Python. J'ai finalement réalisé que ça serait bien plus compliqué que ce que je pensais.
+J'ai donc posé les bases du programme, c'est à dire éditer le tableau (ajouter une cellule ou la supprimer). Une fonction pour le clique droit et pour le clique gauche ont donc été créés.
+
+# Par Y. Soukehal
+
+### Semaine 4
+
+J'ai accordé cette semaine à la longue partie concernant le coeur du programme. Une fonction pour compter le nombre de cellules vivantes autour d'une cellule donnée. Avant tout il faut créer des boutons pour démarrer et stopper la simulation qui progressera au sein du tableau. Ceci étant fait, j'ai finalement rédigé les lignes du compteur, représentant les 4 réglès du Jeu de La Vie.
+
+# Par Y. Soukehal
+
+### Semaine 5
+
+Durant cette semaine je fais face au problème sur lequel j'étais tombé la semaine dernière: je n'avais pas pensé à comment
+les cellules evolueraient au sein du tableau, je créé alors une fonction Image_Suivante qui permettra d'afficher l'état du tableau au tour n+1, et je met à jour mon code réalisé la semaine dernière.
+Encore un nouveau problème: la boucle n'est pas bien réalisée et il faut donc que j'appuie consécutivement sur le bouton Commencer pour incrémenter d'un tour. De plus, il semblerait que le programme fonctionne, mais hors des limites du tableau créées.
+Après de multiples essais et une relecture acharnée du code, j'ai réalisé qu'une erreur d'indentation était la cause du problème.
+
+# Par Y. Soukehal
+
+### Semaine 6
+
+Cette semaine sera consacrée au paufinement du programme. J'ai rajouté un titre en entête, ainsi que les commentaires au code.
+Après réflexion, j'ai eu la brillante idée de rajouter un bouton disposant les cellules de manière aléatoire (c'était quand même un des paramètres de la recherche), après ça je me suis dis qu'il serait intéressant d'ajouter un bouton pour nettoyer le tableau (ou le vider), car pour cela il fallait fermer puis réouvrir le programme, ce qui pouvait être assez lassant à force.
+Par ailleurs, si j'initialisais le tableau plus grand que ce que pouvait afficher le moniteur, les bouttons disparraissaient. Par manque de temps, je n'ai pas pu régler ce problème, j'ai donc juste laisser un avertissement en commentaire dans mon code.
+
+# Par Y. Soukehal
 
 < A  href = "index.html" > Retour à la page principale </ a>
