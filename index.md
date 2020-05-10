@@ -35,6 +35,6 @@ Présentation du choix de modélisation, des outils, du code et des résultats (
 
 ## Bibliographie :
 
-**Carte mentale de vos mots-clés, en utilisant** <a href="file:///Users/kounkoud/yeah/doc_cours/ARE/ARE.png">Framindmap </a> 
-
+**Carte mentale 
+![image] (ARE.png)
 Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
