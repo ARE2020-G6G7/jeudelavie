@@ -48,6 +48,6 @@ Cette semaine sera consacrée au paufinement du programme. J'ai rajouté un titr
 Après réflexion, j'ai eu la brillante idée de rajouter un bouton disposant les cellules de manière aléatoire (c'était quand même un des paramètres de la recherche), après ça je me suis dis qu'il serait intéressant d'ajouter un bouton pour nettoyer le tableau (ou le vider), car pour cela il fallait fermer puis réouvrir le programme, ce qui pouvait être assez lassant à force.
 Par ailleurs, si j'initialisais le tableau plus grand que ce que pouvait afficher le moniteur, les bouttons disparraissaient. Par manque de temps, je n'ai pas pu régler ce problème, j'ai donc juste laisser un avertissement en commentaire dans mon code.
 
-# Par Y. Soukehal
+##### Par Y. Soukehal
 
 < A  href = "index.html" > Retour à la page principale </ a>
