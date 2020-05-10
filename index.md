@@ -48,11 +48,11 @@ Ces simulations sont alors effectuées en 2 phases. Une première phase dites "P
 **Phase 1 :**
 Ci-dessous vous trouverez le début de la simulation manuel(c'est a dire les cellules présentes on été créer manuellement):
 
-![image] (Phase1Deb.png)
+![image](Phase1Deb.png)
 
 Voici le résultat de cette simulation. On peut observer que plusieurs paternes ont apparus:
 
-![image] (Phase1Fin.png)
+![image](Phase1Fin.png)
 
  **Phase 2 :**
 Debut de simulation, avec donc des cellules générer aléatoirement:
