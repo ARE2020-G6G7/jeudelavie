@@ -5,7 +5,7 @@
 
 Durant cette semaine nous avons pu distribuer les tâches de la recherche au sein du groupe. Nous avons pu mettre en évidence certains points sur lesquels nous aurions pu avoir certaines difficultés, c'est ainsi que nous avons pu attribuer les délais pour les tâches. Nous avons aussi profité de cette semaine pour créer les bases du support de la recherche.
 
-##### Par E. Kounoud
+##### Par G. Kounkoud
 
 Durant cette semaine j'ai pu me replonger dans mes cours de Python du premier semestre, faisant une liste des éléments que j'aurais potentiellement besoin lors de la programmation du programme. J'ai d'emblée su que j'aurais besoin d'une interface simple, comportant un tableau de n * n cases. Le besoin de boutons pour lancer la simulation, l'arrêter et fermer la fenêtre.
 Trouver une manière d'éditer le tableau pour pouvoir ajouter ou retirer des cellules dans le tableau.
