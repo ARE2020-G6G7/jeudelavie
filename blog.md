@@ -14,7 +14,7 @@ Trouver une manière d'éditer le tableau pour pouvoir ajouter ou retirer des ce
 
 Cette semaine était également consacrée à un travail de recherche gobale de mon côté. En effet je ne connaissais pas encore cet automate cellulaire. Ainsi, j'ai pu m'informer sur son origine, et plus globalement, sur les causes de sa popularité.
 
-##### Par C. Lebrati & 
+##### Par C. Lebrati & K. Vallipuram
 
 ### Semaine 2
 
@@ -26,7 +26,7 @@ L'addition d'un bouton pour fermer la fenètre est donc maintenant faite (ce qui
 
 Ma deuxième semaine de travail était consacrée à la recherche, plus détaillée, sur le fonctionnement du jeu de la vie, ses résultats tous différents les uns des autres, ses variantes de règles et les possibilités qu'offre cet automate cellulaire.
 
-##### Par C. Lebrati
+##### Par C. Lebrati & K. Vallipuram
 
 ### Semaine 3
 
@@ -37,7 +37,7 @@ J'ai donc posé les bases du programme, c'est à dire éditer le tableau (ajoute
 
 La troisième semaine de travail était consacrée, pour moi, à la vérification des sources que j'ai utilisé lors de mes recherches, j'ai entrecoupé et vérifié les informations afin d'être sûr de ne pas me tromper sur le jeu de la vie.
 
-##### Par C. Lebrati
+##### Par C. Lebrati & K. Vallipuram
 
 ### Semaine 4
 
@@ -47,7 +47,7 @@ J'ai accordé cette semaine à la longue partie concernant le coeur du programme
 
 Lors de la semaine 4, j'ai principalement continuer mes recherches, j'ai aussi commencé à rédiger une partie du carnet de bord, l'introduction, mais c'était un brouillon que je pourrais étoffer plus tard.
 
-##### Par C. Lebrati
+##### Par C. Lebrati & K. Vallipuram
 
 ### Semaine 5
 
@@ -60,7 +60,7 @@ Après de multiples essais et une relecture acharnée du code, j'ai réalisé qu
 
 Durant la semaine 5, j'ai paufiné l'introduction du carnet de bord. J'ai aussi commencé la carte holistique du carnet de bord. De plus, j'ai commencé le point 5 du carnet de bord, et la vérification des sources.
 
-##### Par C. Lebrati
+##### Par C. Lebrati & K. Vallipuram
 
 ### Semaine 6
 
@@ -72,6 +72,6 @@ Par ailleurs, si j'initialisais le tableau plus grand que ce que pouvait affiche
  
 La semaine 6 était dédiée a l'amélioration et à la finition du carnet de bord avant le rendu. J'ai fini l'introduction et la carte mentale du carnet de bord.
 
-##### Par C. Lebrati
+##### Par C. Lebrati & K. Vallipuram
 
 < A  href = "index.html" > Retour à la page principale </ a>
