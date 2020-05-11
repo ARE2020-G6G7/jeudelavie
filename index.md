@@ -35,7 +35,7 @@ Est-il possible d'avoir un ou plusieurs modèles récurrents (pattern) pour des 
 
 **Hypothèse :**
 
-Ce travail s'axant sur une simulation de dimension 1 et a un espace d'évolution défini, l'hypothèse de ce travail de recherche est que oui, il est possible d'avoir un ou plusieurs modèles récurrents pour des placements de cellules différents. 
+Ce travail s'axant sur une simulation de dimension 2 et a un espace d'évolution défini, l'hypothèse de ce travail de recherche est que oui, il est possible d'avoir un ou plusieurs modèles récurrents pour des placements de cellules différents. 
 
 **Objectifs :**
 

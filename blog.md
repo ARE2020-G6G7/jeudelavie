@@ -28,6 +28,11 @@ Ma deuxième semaine de travail était consacrée à la recherche, plus détaill
 
 ##### Par C. Lebrati & K. Vallipuram
 
+Semaine d'initiation Github, début de la mise en place du corps du site. A l'aide des videos mis en place sur Moodle ainsi que quelque video sur l'installation de Git sur mac la Création des premiers fichiers du site, choix du thème, test d'envoie des fichiers en local a été faits.
+
+#### Par G.Kounkoud
+ 
+
 ### Semaine 3
 
 Cette semaine sera consacrée à la réalisation plus complexe du code. Avant tout, il fallait que je puisse transcrire les règles du jeu de la vie en Python, pour cela, j'ai passé une bonne heure et demie à imaginer chaque situation et à écrire le code Python. J'ai finalement réalisé que ça serait bien plus compliqué que ce que je pensais.
@@ -48,6 +53,10 @@ J'ai accordé cette semaine à la longue partie concernant le coeur du programme
 Lors de la semaine 4, j'ai principalement continuer mes recherches, j'ai aussi commencé à rédiger une partie du carnet de bord, l'introduction, mais c'était un brouillon que je pourrais étoffer plus tard.
 
 ##### Par C. Lebrati & K. Vallipuram
+
+Analyse du programme python en cours, debut de la mise en pace des différentes infos sur le site pour un test afin d'évaluer le rendu. Début de l'analyse basé sur le fonctionnement du jeu de la vie et reflexion sur la stratégie a adopté pour la présentation des résultats.
+
+### Par G.Kounkoud
 
 ### Semaine 5
 
@@ -73,5 +82,9 @@ Par ailleurs, si j'initialisais le tableau plus grand que ce que pouvait affiche
 La semaine 6 était dédiée a l'amélioration et à la finition du carnet de bord avant le rendu. J'ai fini l'introduction et la carte mentale du carnet de bord.
 
 ##### Par C. Lebrati & K. Vallipuram
+
+Pour cette semaine, reception du code final.Mise en place des experiences a réaliser avec le code afin de valide notre hypothèse. Premier test avec une simulation sans cellules, qui démontre que ce n'est pas possible. Ensuite second test avec une cellule place manuellement qui quant a lui m'a permis d'avoir de réel résultats. Donc j'ai opte de faire deux Phase une avec une configuration manuel (placement de plusieurs cellule au hasard) puis une autre avec une configuration aléatoire (automatique). Le résultats de ces deux simulations permet de déduire la validité de notre hypothèse.
+
+#### Par G.Kounkoud
 
 < A  href = "index.html" > Retour à la page principale </ a>
