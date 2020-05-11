@@ -18,8 +18,8 @@ Cette semaine était également consacrée à un travail de recherche gobale de 
 
 ### Semaine 2
 
-J'ai commencé la base du programme, créé une fenêtre, ainsi que le tableau composé d'un tableau composé de lignes verticales et horizontales créant les cellules dans lesquelles on pourra éditer la disposition des cellules.
-La base faite, j'ai pu me pencher sur la question des boutons intégrés à l'interface graphique. Pour cela j'ai du m'appuyer sur quelques forum de programmation Python.
+J'ai commencé la base du programme, créé une fenêtre, ainsi que le tableau composé de lignes verticales et horizontales créant les cases dans lesquelles on pourra éditer la disposition des cellules.
+La base faite, j'ai pu me pencher sur la question des boutons intégrés à l'interface graphique. Pour cela j'ai du m'appuyer sur quelques forums de programmation Python.
 L'addition d'un bouton pour fermer la fenètre est donc maintenant faite (ce qui rend le visuel et l'utilisation plus intuitif.).
 
 ##### Par Y. Soukehal
