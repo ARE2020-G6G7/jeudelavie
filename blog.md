@@ -14,7 +14,7 @@ Trouver une manière d'éditer le tableau pour pouvoir ajouter ou retirer des ce
 
 Cette semaine était également consacrée à un travail de recherche gobale de mon côté. En effet je ne connaissais pas encore cet automate cellulaire. Ainsi, j'ai pu m'informer sur son origine, et plus globalement, sur les causes de sa popularité.
 
-##### Par C. Lebrati
+##### Par C. Lebrati & 
 
 ### Semaine 2
 
